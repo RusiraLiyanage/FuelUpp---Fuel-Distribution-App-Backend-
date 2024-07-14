@@ -1,0 +1,38 @@
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\appsettings.Development.json
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\appsettings.json
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Fuel App.exe
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Fuel App.deps.json
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Fuel App.runtimeconfig.json
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Fuel App.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Fuel App.pdb
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\DnsClient.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\MongoDB.Bson.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\MongoDB.Driver.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\SharpCompress.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Snappier.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\ZstdSharp.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.csproj.AssemblyReference.cache
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.AssemblyInfoInputs.cache
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.AssemblyInfo.cs
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.csproj.CoreCompileInputs.cache
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.MvcApplicationPartsAssemblyInfo.cs
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.MvcApplicationPartsAssemblyInfo.cache
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\staticwebassets.build.json
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\staticwebassets.development.json
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\scopedcss\bundle\Fuel App.styles.css
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.csproj.CopyComplete
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\refint\Fuel App.dll
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.pdb
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\Fuel App.genruntimeconfig.cache
+E:\ProgramingVibes\VisualStudioProjects\FuelManagement\Fuel App\Fuel App\obj\Debug\net6.0\ref\Fuel App.dll
